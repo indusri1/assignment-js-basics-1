@@ -9,6 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
+let gitDefinition = "a software version control system that tracks changes made to files so there is a record of what is being done. This allows one to access different stages of the files while working as needed. This makes it easier to access different versions in order to impliment changes. Git is a local system (accessed on your system)"
 //CODE HERE
 
 //////////////////PROBLEM 2////////////////////
@@ -19,6 +20,7 @@
 
 //CODE HERE
 
+let gitHubDefinition = "a cloud based online system. It is a way people can share their code with other developers to mosify ans store code. It allows others to access code on their systems which is otherwise just accessible to you on your own system. It is a cloud service for your git"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,6 +28,8 @@
 */
 
 //CODE HERE
+
+let gitInitDefinition = "initialize a local repository in a folder. It changes the current directory into a git repository."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -35,6 +39,8 @@
 
 //CODE HERE
 
+let gitCloneDefinition = "Creates a copy of a repository that already exists on GitHub. It includes all files, branches, and commits associated with the file."
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +48,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = "it gives  information about the reposotory. The command gives information on what branch one is on, what files are in the working directory, and other information about the file." 
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +62,10 @@
 
 //CODE HERE
 
+let gitAddDefinition = "adds files that need to be tracked. It just add new or changed files into a working directory. Git commit can not work without this step."
+
+let gitAddCode = " git add ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +77,9 @@
 
 //CODE HERE
 
+let gitCommitDefinition = "takes a snapshot of the project's current work. It keeps track of progress and changes made while working."
+
+let gitCommitCode = "git commit -m 'initial commit' "
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +88,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = "updates local repository content to an online repository. Example is when we use the command to push our file containing code from git to github."
