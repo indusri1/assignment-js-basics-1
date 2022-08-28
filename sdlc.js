@@ -15,11 +15,11 @@
 
 // Answer
 // Step 1: planning
-// Step 2: Analysis of requirements
-// Step 3: Design
-// Step 4: Implementation
-// Step 5: Testing & Integration
-// Step 6: Maintain
+// Step 2: analysis of requirements
+// Step 3: design
+// Step 4: implementation
+// Step 5: testing & Integration
+// Step 6: maintain
 
 //////////////////PROBLEM 2////////////////////
 /*
